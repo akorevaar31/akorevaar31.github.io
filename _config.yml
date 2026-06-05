@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Aryeh Korevaar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Massachusetts Institute of Technology"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Niskayuna, NY"
+  employer         : "MIT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akorevaar31@gmail.com" 
 
   # Academic websites
   academia         : # URL
