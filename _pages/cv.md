@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="your-document.pdf" type="application/pdf" width="100%" height="600px" />
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
