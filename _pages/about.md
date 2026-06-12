@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Welcome! My name is Aryeh Korevaar and I am an incoming sophomore at MIT studying Mathematics and Computer Science.
 
 
 
